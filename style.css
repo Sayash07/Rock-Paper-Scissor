@@ -64,7 +64,15 @@ img {
 
 }
 
-.msgContainer{
-    margin-top: 4rem;
-    font-size:3rem;
+.msgContainer {
+    margin-top: 5rem;
+}
+
+#msg{
+    background-color: #081b31;
+    color: white;
+    font-size:2rem;
+    display: inline;
+    padding: 1rem;
+    border-radius: 1rem;
 }
